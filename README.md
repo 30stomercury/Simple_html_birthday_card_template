@@ -1,1 +1,1 @@
-# Simple_html_birthday_card_template
+# Simple html birthday card template
